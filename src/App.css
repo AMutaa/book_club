@@ -1,0 +1,53 @@
+@font-face {
+  font-family: 'DankMono';
+  src: url('./Assets/DankMonoNormal.ttf')
+}
+
+html {
+  font-family: 'Source Sans Pro', sans-serif;
+  font-size: 20px;
+  letter-spacing: 0.01rem;
+  box-sizing: border-box;
+  background: lightgrey;
+  text-align: center;
+
+}
+
+.App {
+  height: 100%;
+}
+
+* {
+  box-sizing: border-box;
+
+}
+
+body {
+  box-sizing: border-box;
+}
+
+p {
+  margin: 0;
+  color: white;
+  float: left;
+  padding-left: 15px
+}
+
+
+h5 {
+  margin: 0;
+  color: white;
+
+}
+
+h4 {
+  margin: 10px 0;
+}
+
+span {
+  color: #606468;
+}
+
+form {
+  padding: 20px 0;
+}
