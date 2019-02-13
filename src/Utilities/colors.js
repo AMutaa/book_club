@@ -15,17 +15,4 @@ export const white = '#ffffff';
 
 
 
-export default {
-  lightGrey,
-  grey,
-  black,
-  teal,
-  purp,
-  red,
-  blue,
-  darkGrey,
-  darkGrey2,
-  pink,
-  green,
-  white
-}
+export default { lightGrey, grey, black, teal, purp, red, blue, darkGrey, darkGrey2, pink, green, white }
