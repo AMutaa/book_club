@@ -6,11 +6,11 @@ import { Form, DeleteModal, Counter } from 'Components';
 
 
 export default class App extends Component {
-  componentDidMount() {
-    alert(
-      '🛑 Colors and Designs in this project are chosen for demonstrative purposes only 🛑'
-    )
-  }
+  // componentDidMount() {
+  //   alert(
+  //     '🛑 Colors and Designs in this project are chosen for demonstrative purposes only 🛑'
+  //   )
+  // }
 
   render() {
     return (
