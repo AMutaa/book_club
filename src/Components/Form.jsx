@@ -3,7 +3,7 @@ import styled from "styled-components";
 import { Header, Content, Footer } from "Components";
 import { Card, Button } from "Elements";
 import { colors } from "Utilities";
-import Select from "@blueprintjs/core";
+// import Select from "@blueprintjs/core";
 
 export default class Form extends Component {
   render() {
